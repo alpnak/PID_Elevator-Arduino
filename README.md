@@ -23,3 +23,4 @@
 > The material, shape, and sizes of the above construction components are not specified in order to allow flexibility in material selection. The elevator can be constructed using suitable materials.
 
 ## CONSTRUCTION OF THE ELEVATOR
+> Construction schematic
