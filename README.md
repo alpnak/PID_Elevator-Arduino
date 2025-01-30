@@ -11,7 +11,7 @@
 - **Jumper Cables**
 
 ## CIRCUIT
-![Circuit view](D:/DOSYALAR/ALPEREN/4_universite/bolum/ele/301/proje/PID_elevator/circuit_view.png)
+![Circuit view](circuit_view.png)
 
 ## CONSTRUCTION COMPONENTS
 - **4 x Support Arm**  
