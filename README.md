@@ -8,7 +8,10 @@
 - **4 x 10k Potentiometer**  
 - **3 x Push Button**  
 - **8 x 1.5V Battery**  
-- **Jumper Cables**  
+- **Jumper Cables**
+
+## CIRCUIT
+![Circuit view](D:/DOSYALAR/ALPEREN/4_universite/bolum/ele/301/proje/PID_elevator/circuit_view.png)
 
 ## CONSTRUCTION COMPONENTS
 - **4 x Support Arm**  
