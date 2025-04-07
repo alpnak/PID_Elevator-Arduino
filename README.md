@@ -29,3 +29,6 @@
 
 ## CONSTRUCTION OF THE ELEVATOR
 Construction schematic photo
+
+## PROJECT DEMO
+Demo video link
