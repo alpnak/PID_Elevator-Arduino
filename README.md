@@ -36,3 +36,4 @@ Demo video link
 ## Contributors
 Alperen Nakiboğlu\n
 Enis Hacışevki 
+Bora Saltaş
