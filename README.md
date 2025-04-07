@@ -32,3 +32,7 @@ Construction schematic photo
 
 ## PROJECT DEMO
 Demo video link
+
+## Contributors
+Alperen Nakiboğlu
+Enis Hacışevki 
