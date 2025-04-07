@@ -1,4 +1,4 @@
-# Elevator model project with Arduino
+# Model elevator project with Arduino
 
 ## ELECTRONIC COMPONENTS
 - **Arduino MEGA 2560**  
