@@ -34,6 +34,6 @@ Construction schematic photo
 Demo video link
 
 ## Contributors
-Alperen Nakiboğlu
-Enis Hacışevki 
+Alperen Nakiboğlu   
+Enis Hacışevki   
 Bora Saltaş
