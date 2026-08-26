@@ -28,7 +28,7 @@
 > The material, shape, and sizes of the above construction components are not specified in order to allow flexibility in material selection. The elevator can be constructed using suitable materials.
 
 ## CONSTRUCTION OF THE ELEVATOR
-![Construction schematic photo](construction.png)
+![Construction schematic photo](construction.jpg)
 
 ## PROJECT DEMO
 [Demo video link](https://www.youtube.com/watch?v=tuAmW-vO210)
