@@ -31,7 +31,7 @@
 Construction schematic photo
 
 ## PROJECT DEMO
-Demo video link
+[Demo video link](https://www.youtube.com/watch?v=tuAmW-vO210)
 
 ## Contributors
 Alperen Nakiboğlu   
